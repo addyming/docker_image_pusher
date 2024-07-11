@@ -1,1 +1,1 @@
-tancloud/hertzbeat
+tancloud/hertzbeat:v1.6.0
