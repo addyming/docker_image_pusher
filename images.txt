@@ -1,2 +1,1 @@
-tomcat:8.5
-centos:centos7.9.2009
+tancloud/hertzbeat
