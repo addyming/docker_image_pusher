@@ -1,2 +1,2 @@
 mongo:latest
-redis:redis
+redis:latest
