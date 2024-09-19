@@ -1,1 +1,1 @@
-cimg/go:1.22 --platform=linux/arm64
+arm64v8/golang:latest
