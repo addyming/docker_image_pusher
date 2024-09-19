@@ -1,1 +1,1 @@
-cimg/go
+cimg/go:1.22
